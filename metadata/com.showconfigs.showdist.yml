@@ -1,0 +1,17 @@
+Categories:
+  - Science & Education
+License: MIT
+AuthorName: Carlos Cruz
+AuthorEmail: sh.run.configs@gmail.com
+WebSite: https://github.com/carlosantoniocruz/showdist-android
+SourceCode: https://github.com/carlosantoniocruz/showdist-android
+IssueTracker: https://github.com/carlosantoniocruz/showdist-android/issues
+Changelog: https://github.com/carlosantoniocruz/showdist-android/releases
+
+AntiFeatures:
+  NonFreeDep:
+    en-US: Requires Google Play Services for AR (ARCore), which is proprietary.
+
+AutoName: Showdist
+CurrentVersion: '1.2'
+CurrentVersionCode: 3

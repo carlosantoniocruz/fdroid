@@ -1,0 +1,101 @@
+{
+  "repo": {
+    "timestamp": 1791835818000,
+    "version": 20002,
+    "name": "Showdist F-Droid repo",
+    "icon": "icon.png",
+    "address": "https://carlosantoniocruz.github.io/fdroid/repo",
+    "description": "Apps by Carlos Cruz, built from public source at https://github.com/carlosantoniocruz. Showdist needs Google Play Services for AR (ARCore)."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [
+        "NonFreeDep"
+      ],
+      "authorEmail": "sh.run.configs@gmail.com",
+      "authorName": "Carlos Cruz",
+      "categories": [
+        "Science & Education"
+      ],
+      "changelog": "https://github.com/carlosantoniocruz/showdist-android/releases",
+      "suggestedVersionName": "1.2",
+      "suggestedVersionCode": "3",
+      "issueTracker": "https://github.com/carlosantoniocruz/showdist-android/issues",
+      "license": "MIT",
+      "sourceCode": "https://github.com/carlosantoniocruz/showdist-android",
+      "webSite": "https://github.com/carlosantoniocruz/showdist-android",
+      "added": 1791835804000,
+      "packageName": "com.showconfigs.showdist",
+      "lastUpdated": 1791835804000,
+      "localized": {
+        "en-US": {
+          "description": "Showdist is a tape measure and a bubble level in your pocket. Point your camera at a floor, wall or table, tap to drop points, and read the distance as you go. When you need to hang a shelf straight, switch to the level.\n\nMEASURE IN AR\n\u2022 Aim the reticle and tap to place points. Each segment shows its length, and a running total adds them up.\n\u2022 Measure a single span or chain up to 24 points to trace a room, a counter or a garden bed.\n\u2022 Undo the last point or clear them all with one tap.\n\u2022 Metres and centimetres, or feet and inches to the nearest half inch. Switch any time, even mid-measurement.\n\nSAVE, REVISIT, SHARE\n\u2022 Hold anywhere on the screen to save a measurement to History.\n\u2022 Each saved measurement keeps its shape as a thumbnail and opens to show every segment length.\n\u2022 View in AR: project a saved measurement back into the room to check it against the real thing.\n\u2022 Export a clean PDF report of one or many measurements, with a scaled diagram of each shape, or copy and share them as text.\n\nLEVEL\n\u2022 Tube level: hold the phone against a wall, frame or shelf. Works in portrait and both landscape orientations.\n\u2022 Bullseye level: lay the phone flat to check a surface on two axes at once.\n\u2022 A readout to a tenth of a degree, a bubble that moves like the real thing, and a zero button to calibrate against a surface you trust.\n\nBUILT FOR THE JOB\n\u2022 High-contrast colours tuned to stay readable in direct sunlight.\n\u2022 The screen stays on while you work.\n\u2022 No account, no ads, no tracking. Your measurements stay on your phone.\n\nShowdist needs a phone that supports Google Play Services for AR (ARCore). AR measurements are estimates: for the best results, use good light, move the phone slowly to let it map the room, and aim at textured surfaces rather than blank white walls or glass. For work where fractions of an inch matter, confirm with a physical tape.\n",
+          "featureGraphic": "featureGraphic_JbIUa3hVZ7knEcYv710bfb_k6iVl0xFADr-XlKp5glw=.png",
+          "icon": "icon_hXy-5j08svFDlFaIWQXoAiW2zDVphiopFCUoqXoJags=.png",
+          "name": "Showdist",
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png"
+          ],
+          "summary": "Measure distances with your camera in AR, plus a bubble level. No ads, offline.",
+          "whatsNew": "Version 1.2: sandstone redesign, About screen links the privacy policy and shows the ARCore notice.\n"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "com.showconfigs.showdist": [
+      {
+        "added": 1791835804000,
+        "apkName": "com.showconfigs.showdist_3.apk",
+        "features": [
+          "android.hardware.camera.ar",
+          "android.hardware.camera"
+        ],
+        "hash": "3effe9bfc881cf5c975202cf061eceaebd1b07b3404b883dc052cb47276c2950",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.showconfigs.showdist",
+        "sig": "12c04cb4fff13ebd025ea2fd036a2573",
+        "signer": "43b8ed3968cbd48abca52aef0c93fcb603b20325c7134463c53dce8acff47fb2",
+        "size": 32866635,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.showconfigs.showdist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+# repo signing key and its passwords: never commit
+keystore.p12
+*.jks
+config.yml
+tmp/
+archive/
