@@ -1,5 +1,12 @@
 {
   "repo": {
-    "timestamp": 1791835818000
+    "icon": {
+      "en-US": {
+        "name": "/icons/showdist-repo.png",
+        "sha256": "a0a40448333de3ea0ff6f34274d53ac8f17892cc777db836ff28bd036c22e6d1",
+        "size": 4863
+      }
+    },
+    "timestamp": 1791835854000
   }
 }

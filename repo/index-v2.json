@@ -8,13 +8,13 @@
     },
     "icon": {
       "en-US": {
-        "name": "/icons/icon.png",
-        "sha256": "8b98b0d0fbb54ec48ada2437d8ab43a47c3fb116a4730e8f79b68d4f79d0b7fc",
-        "size": 855
+        "name": "/icons/showdist-repo.png",
+        "sha256": "a0a40448333de3ea0ff6f34274d53ac8f17892cc777db836ff28bd036c22e6d1",
+        "size": 4863
       }
     },
     "address": "https://carlosantoniocruz.github.io/fdroid/repo",
-    "timestamp": 1791835818000,
+    "timestamp": 1791835854000,
     "categories": {
       "Science & Education": {
         "name": {

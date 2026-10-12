@@ -1,9 +1,9 @@
 {
   "repo": {
-    "timestamp": 1791835818000,
+    "timestamp": 1791835854000,
     "version": 20002,
     "name": "Showdist F-Droid repo",
-    "icon": "icon.png",
+    "icon": "showdist-repo.png",
     "address": "https://carlosantoniocruz.github.io/fdroid/repo",
     "description": "Apps by Carlos Cruz, built from public source at https://github.com/carlosantoniocruz. Showdist needs Google Play Services for AR (ARCore)."
   },
