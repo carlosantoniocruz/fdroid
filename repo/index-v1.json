@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1791835854000,
+    "timestamp": 1791839367000,
     "version": 20002,
     "name": "Showdist F-Droid repo",
     "icon": "showdist-repo.png",
@@ -58,10 +58,9 @@
         "added": 1791835804000,
         "apkName": "com.showconfigs.showdist_3.apk",
         "features": [
-          "android.hardware.camera.ar",
           "android.hardware.camera"
         ],
-        "hash": "3effe9bfc881cf5c975202cf061eceaebd1b07b3404b883dc052cb47276c2950",
+        "hash": "8ca9e2abae59eca296ae105c3207b6a7608ae28e1a539774e94f689ad6f0e936",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -73,7 +72,7 @@
         "packageName": "com.showconfigs.showdist",
         "sig": "12c04cb4fff13ebd025ea2fd036a2573",
         "signer": "43b8ed3968cbd48abca52aef0c93fcb603b20325c7134463c53dce8acff47fb2",
-        "size": 32866635,
+        "size": 32866639,
         "targetSdkVersion": 37,
         "uses-permission": [
           [

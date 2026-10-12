@@ -14,29 +14,15 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1791835856517,
+  "endTimestamp": 1791839369141,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "311fdec4ec680a88cd9d13a5bb5fb5ac7c90e7ff",
+    "commitId": "5f30ec0443f6521f945904984e5fae2ee9ae41f6",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/diff/1791835808000.json",
-      "repo/entry.jar",
-      "repo/entry.json",
-      "repo/index-v1.jar",
-      "repo/index-v1.json",
-      "repo/index-v2.json",
-      "repo/index.html",
-      "repo/index.jar",
-      "repo/index.xml",
-      "repo/status/running.json",
-      "repo/status/update.json"
+      "repo/com.showconfigs.showdist_3.apk"
     ],
-    "untrackedFiles": [
-      "repo/diff/1791835818000.json",
-      "repo/icons/showdist-repo.png",
-      "showdist-repo.png"
-    ]
+    "untrackedFiles": []
   },
   "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
   "keytool": "/usr/lib/jvm/default-java/bin/keytool",
@@ -48,14 +34,14 @@
     "com.showconfigs.showdist"
   ],
   "stages": {
-    "delete_disabled_builds": 1791835854482,
-    "index.make repo": 1791835854487,
-    "prepare_apps repo": 1791835854483,
-    "process_apks": 1791835854482,
-    "read_added_date_from_all_apks": 1791835854483,
-    "remove_apks": 1791835854483,
-    "scan_repo_files": 1791835854483
+    "delete_disabled_builds": 1791839366778,
+    "index.make repo": 1791839367104,
+    "prepare_apps repo": 1791839367100,
+    "process_apks": 1791839366778,
+    "read_added_date_from_all_apks": 1791839367100,
+    "remove_apks": 1791839367099,
+    "scan_repo_files": 1791839367099
   },
-  "startTimestamp": 1791853854000,
+  "startTimestamp": 1791857366000,
   "subcommand": "update"
 }
