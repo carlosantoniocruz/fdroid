@@ -23,7 +23,7 @@ Then search for **Showdist** and install it.
 
 | App | Version | Package |
 |---|---|---|
-| Showdist | 1.2 (3) | `com.showconfigs.showdist` |
+| Showdist | 1.3 (4) | `com.showconfigs.showdist` |
 
 Showdist needs a phone that supports **Google Play Services for AR (ARCore)**.
 ARCore is proprietary Google software, so F-Droid marks the app with the
