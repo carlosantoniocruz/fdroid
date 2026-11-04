@@ -1,6 +1,6 @@
 # Showdist F-Droid repo
 
-An F-Droid repository for [Showdist](https://github.com/carlosantoniocruz/showdist-android),
+An F-Droid repository for Showdist,
 an AR tape measure and bubble level for Android. No ads, no account, works offline.
 
 <img src="showdist-repo.png" width="96">
@@ -31,8 +31,6 @@ ARCore is proprietary Google software, so F-Droid marks the app with the
 
 ## Links
 
-- Source code: [showdist-android](https://github.com/carlosantoniocruz/showdist-android)
-- Issues: [showdist-android/issues](https://github.com/carlosantoniocruz/showdist-android/issues)
 - [Privacy policy](https://carlosantoniocruz.github.io/showdist-privacy/)
 
 ## What's in here
