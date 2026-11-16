@@ -9,5 +9,5 @@ AntiFeatures:
     en-US: Requires Google Play Services for AR (ARCore), which is proprietary.
 
 AutoName: Showdist
-CurrentVersion: '1.4'
-CurrentVersionCode: 6
+CurrentVersion: '1.5'
+CurrentVersionCode: 7
